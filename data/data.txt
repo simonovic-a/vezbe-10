@@ -2,3 +2,9 @@ Zdravo svete
 Python je super
 Učim programiranje
 Danas je lep dan
+
+test test 1234 testi test
+sedam dva pet
+test
+
+test test sest test
